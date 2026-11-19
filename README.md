@@ -71,7 +71,7 @@ philosophy: "Turning complex challenges into clean, scalable code."
   <!-- AI, Machine Learning & Mobile -->
   <p><b>AI, Machine Learning & Mobile Development:</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,android,kotlin&theme=dark" alt="AI/ML & Mobile" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,kotlin&theme=dark" alt="AI/ML & Mobile" />
   </a>
 
   <br/><br/>

@@ -63,7 +63,7 @@ philosophy: "Turning complex challenges into clean, scalable code."
   <!-- Full Stack Web Development -->
   <p><b>Full Stack Web Development & Frameworks:</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,vite&theme=dark" alt="Web Development" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="Web Development" />
   </a>
 
   <br/><br/>

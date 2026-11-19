@@ -1,8 +1,8 @@
 <!-- ======================================================= -->
-<!-- HEADER BANNER WITH GRADIENT & ANIMATION -->
+<!-- HEADER BANNER -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=220&section=header&text=Krishna%20Deshmukh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Machine%20Learning%20%7C%20Full%20Stack%20%26%20Android%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Krishna%20Deshmukh&fontSize=42&fontAlignY=40" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -113,5 +113,5 @@ philosophy: "Turning complex challenges into clean, scalable code."
 <!-- FOOTER WAVE -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>

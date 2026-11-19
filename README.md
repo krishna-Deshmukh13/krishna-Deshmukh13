@@ -24,7 +24,7 @@ philosophy: "Turning complex challenges into clean, scalable code."
 
 - 🔭 **Currently working on:** AI/ML models, scalable full-stack web platforms & modern Android apps.
 - 🌱 **Currently exploring:** Advanced Deep Learning, Cloud Architecture (AWS), and Native Android.
-- 💬 **Ask me about:** Python, C++, Java, Android Development, Web Frameworks, and Databases.
+- 💬 **Ask me about:** Python, C++, Java, React, Node.js, Android Development, Web Frameworks, and Databases.
 - 🤝 **Collaboration:** Always open to collaborate on open-source projects & innovative ideas.
 - ⚡ **Fun fact:** I love turning caffeine into functional algorithms and debugging with rubber ducks! ☕🦆
 
@@ -52,18 +52,34 @@ philosophy: "Turning complex challenges into clean, scalable code."
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <!-- Languages & Mobile -->
-  <p><b>Languages & Core Platforms:</b></p>
+  <!-- Core Languages -->
+  <p><b>Core Languages:</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,html,css,android&theme=dark" alt="Languages & Platforms" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css&theme=dark" alt="Core Languages" />
   </a>
   
   <br/><br/>
-  
-  <!-- Cloud, Database & Tools -->
-  <p><b>Cloud, Databases & Development Tools:</b></p>
+
+  <!-- Full Stack Web Development -->
+  <p><b>Full Stack Web Development & Frameworks:</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,vscode,postman&theme=dark" alt="Tools & DB" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,vite&theme=dark" alt="Web Development" />
+  </a>
+
+  <br/><br/>
+  
+  <!-- AI, Machine Learning & Mobile -->
+  <p><b>AI, Machine Learning & Mobile Development:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,android,kotlin&theme=dark" alt="AI/ML & Mobile" />
+  </a>
+
+  <br/><br/>
+  
+  <!-- Cloud, Databases & DevOps -->
+  <p><b>Cloud, Databases & Developer Tools:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,firebase,mysql,mongodb,git,github,vscode,postman,linux&theme=dark" alt="Cloud, DB & Tools" />
   </a>
 
   <br/><br/>
@@ -93,9 +109,9 @@ philosophy: "Turning complex challenges into clean, scalable code."
 <br/>
 
 <div align="center">
-  <!-- Top Languages -->
+  <!-- Top Languages (Auto-updates with up to 8 languages from your repositories, hiding system files) -->
   <a href="https://github.com/krishna-Deshmukh13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-Deshmukh13&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" alt="Top Languages" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-Deshmukh13&layout=compact&langs_count=8&hide=batchfile&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" alt="Top Languages" width="60%" />
   </a>
 </div>
 

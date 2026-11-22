@@ -1,75 +1,118 @@
+<img align="right" width="85" src="https://img.icons8.com/fluency/96/source-code.png" alt="Code Icon" />
+
 # Krishna Deshmukh
+### AI/ML Engineer | Full-Stack Developer
 
-**AI/ML Engineer | Full-Stack Developer**
+Building practical AI applications, developer tools, and full-stack software focused on real-world problems.
 
-I build AI-assisted developer tooling, computer vision systems, and full-stack web platforms focused on solving practical problems.
+📍 India &nbsp; · &nbsp; 🎓 B.E. AIML (SPPU) &nbsp; | &nbsp; 🟢 Open to Opportunities
 
-India · B.E. in Artificial Intelligence & Machine Learning
+<br/>
 
-[GitHub](https://github.com/krishna-Deshmukh13) · [LinkedIn](https://www.linkedin.com/in/krishnadeshmukh13) · [Email](mailto:krishnadeshmukh721@gmail.com)
-
----
-
-## About
-
-I am a software engineer specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. My technical focus centers on developer productivity tools, real-time multimedia streaming, cryptographic evidence verification, and scalable web architectures. I prioritize clean code architecture, type safety, and building reliable end-to-end applications from local prototyping to production deployments.
-
----
-
-## Selected Projects
-
-### Fixora AI
-An all-in-one VS Code extension for automated code review, real-time static analysis, cyclomatic complexity metrics, and AI-assisted debugging using Google Gemini and local Ollama models.
-- **Technologies:** `TypeScript` · `VS Code API` · `Gemini API` · `ESLint`
-- **Repository:** [krishna-Deshmukh13/Fixora-AI---Extension](https://github.com/krishna-Deshmukh13/Fixora-AI---Extension)
-
-### Evidence Integrity Platform
-An enterprise digital forensics custody platform designed for cryptographic tamper detection, EXIF metadata extraction, digital certificate generation, and Section 63 BSA legal compliance.
-- **Technologies:** `FastAPI` · `React` · `OpenCV` · `TypeScript` · `Python`
-- **Repository:** [krishna-Deshmukh13/evidence-integrity-platform](https://github.com/krishna-Deshmukh13/evidence-integrity-platform)
-
-### Wanderlust — Airbnb Clone
-A full-stack vacation rental marketplace built with the MVC architecture, featuring dynamic destination search, category carousels, responsive listing management, GST tax calculations, and a simulated reservation workflow.
-- **Technologies:** `Node.js` · `Express.js` · `MongoDB` · `Bootstrap 5` · `EJS`
-- **Repository:** [krishna-Deshmukh13/AirBnb_Clone](https://github.com/krishna-Deshmukh13/AirBnb_Clone)
-
-### Web Translator
-A real-time translation studio supporting bidirectional speech-to-speech streaming via WebSockets, document text extraction (PDF/DOCX), live webpage translation, and neural speech synthesis.
-- **Technologies:** `Python` · `FastAPI` · `WebSocket` · `SpeechRecognition` · `gTTS`
-- **Repository:** [krishna-Deshmukh13/real-time-voice-translator](https://github.com/krishna-Deshmukh13/real-time-voice-translator)
-
-### RoadSense AI
-An autonomous road defect detection and municipal GIS decision-support platform utilizing computer vision for crack/pothole classification, depth estimation, and interactive PostGIS map plotting.
-- **Technologies:** `Python` · `FastAPI` · `YOLO11` · `Next.js 15` · `PostGIS`
-- **Status:** Verified Local Architecture · *Target Remote:* [krishna-Deshmukh13/roadsense-ai](https://github.com/krishna-Deshmukh13)
-
-### VYBE
-A full-stack music streaming and audio discovery platform featuring decentralized streaming ingestion, high-performance audio playback state management, and real-time catalog search.
-- **Technologies:** `TypeScript` · `Angular` · `Express.js` · `MongoDB`
-- **Status:** Verified Local Monorepo · *Target Remote:* [krishna-Deshmukh13/vybe](https://github.com/krishna-Deshmukh13)
+<a href="https://github.com/krishna-Deshmukh13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/krishnadeshmukh13"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:krishnadeshmukh721@gmail.com"><img src="https://img.shields.io/badge/Email_Me-24292e?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email Me" /></a>
 
 ---
 
-## Technologies
+### 🔖 About
 
-**Languages:** Python, JavaScript, TypeScript, Java, C++, SQL  
-**Frontend:** React, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS  
-**Backend:** Node.js, Express.js, FastAPI, REST APIs, WebSockets  
-**Databases & Storage:** MongoDB, PostgreSQL, PostGIS, MySQL  
-**Developer Tools:** Git, GitHub, VS Code, Linux, Docker  
+I'm an engineering student in Artificial Intelligence and Machine Learning, passionate about building practical AI systems, full-stack web applications, and developer tools. I enjoy turning complex ideas into useful, well-designed software.
 
 ---
 
-## GitHub Activity
+### 📚 Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-Deshmukh13&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="Krishna Deshmukh GitHub Stats" width="480" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="16" valign="middle"/> &nbsp; <a href="https://github.com/krishna-Deshmukh13/Fixora-AI---Extension">Fixora AI</a></b> &nbsp; <sup>↗</sup>
+      <br/><br/>
+      AI code review & debugger extension for Visual Studio Code.
+      <br/><br/>
+      <kbd>TypeScript</kbd> &nbsp; <kbd>VS Code API</kbd> &nbsp; <kbd>AI</kbd>
+    </td>
+    <td width="33%" valign="top">
+      <b>🛡️ &nbsp; <a href="https://github.com/krishna-Deshmukh13/evidence-integrity-platform">Evidence Integrity Platform</a></b> &nbsp; <sup>↗</sup>
+      <br/><br/>
+      Digital forensics platform for media analysis and chain-of-custody.
+      <br/><br/>
+      <kbd>Python</kbd> &nbsp; <kbd>Computer Vision</kbd> &nbsp; <kbd>Security</kbd>
+    </td>
+    <td width="33%" valign="top">
+      <b>📍 &nbsp; <a href="https://github.com/krishna-Deshmukh13/AirBnb_Clone">Wanderlust</a></b> &nbsp; <sup>↗</sup>
+      <br/><br/>
+      Full-stack property listing app (Airbnb clone) with authentication.
+      <br/><br/>
+      <kbd>Node.js</kbd> &nbsp; <kbd>Express</kbd> &nbsp; <kbd>MongoDB</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🛣️ &nbsp; <a href="https://github.com/krishna-Deshmukh13">AI Road Damage Detection</a></b> &nbsp; <sup>↗</sup>
+      <br/><br/>
+      Detects and maps road damages using computer vision and GIS.
+      <br/><br/>
+      <kbd>Python</kbd> &nbsp; <kbd>OpenCV</kbd> &nbsp; <kbd>GIS</kbd>
+    </td>
+    <td width="33%" valign="top">
+      <b>🎵 &nbsp; <a href="https://github.com/krishna-Deshmukh13">TuneVerse</a></b> &nbsp; <sup>↗</sup>
+      <br/><br/>
+      A modern music streaming web app with playlists, search and user library.
+      <br/><br/>
+      <kbd>React</kbd> &nbsp; <kbd>Node.js</kbd> &nbsp; <kbd>MongoDB</kbd>
+    </td>
+    <td width="33%" valign="top">
+      <b>🌐 &nbsp; <a href="https://github.com/krishna-Deshmukh13/real-time-voice-translator">Web Translator</a></b> &nbsp; <sup>↗</sup>
+      <br/><br/>
+      A real-time multilingual translation web app with a clean UI.
+      <br/><br/>
+      <kbd>React</kbd> &nbsp; <kbd>Translation API</kbd> &nbsp; <kbd>i18n</kbd>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Connect
+### &lt;/&gt; Technologies
 
-I'm interested in building useful software, collaborating on impactful open-source projects, and learning from other engineers.
+**Languages:** &nbsp; <kbd>Python</kbd> &nbsp; <kbd>JavaScript</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>Java</kbd> &nbsp; <kbd>SQL</kbd>  
+**Frontend:** &nbsp; <kbd>React</kbd> &nbsp; <kbd>HTML</kbd> &nbsp; <kbd>CSS</kbd> &nbsp; <kbd>Bootstrap</kbd>  
+**Backend:** &nbsp; <kbd>Node.js</kbd> &nbsp; <kbd>Express</kbd>  
+**Databases:** &nbsp; <kbd>MongoDB</kbd> &nbsp; <kbd>MySQL</kbd>  
+**Tools:** &nbsp; <kbd>Git</kbd> &nbsp; <kbd>GitHub</kbd> &nbsp; <kbd>VS Code</kbd>  
 
-[GitHub](https://github.com/krishna-Deshmukh13) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/krishnadeshmukh13) &nbsp;·&nbsp; [Email](mailto:krishnadeshmukh721@gmail.com)
+---
+
+### 📊 GitHub Activity
+
+<table width="100%">
+  <tr>
+    <td width="48%" align="center" valign="middle">
+      <a href="https://github.com/krishna-Deshmukh13">
+        <img src="https://github-readme-stats.vercel.app/api?username=krishna-Deshmukh13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" width="100%" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="52%" align="center" valign="middle">
+      <a href="https://github.com/krishna-Deshmukh13">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-Deshmukh13&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔗 Connect
+
+I'm interested in building useful software, collaborating on interesting projects, and learning from other developers.
+
+<br/>
+
+<a href="https://github.com/krishna-Deshmukh13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/krishnadeshmukh13"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:krishnadeshmukh721@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>

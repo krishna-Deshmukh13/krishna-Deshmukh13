@@ -1,133 +1,75 @@
-<!-- ======================================================= -->
-<!-- HEADER BANNER -->
-<!-- ======================================================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Krishna%20Deshmukh&fontSize=42&fontAlignY=40" width="100%" alt="Header Banner" />
-</div>
+# Krishna Deshmukh
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&random=false&width=650&lines=Hi+There!+%F0%9F%91%8B+I'm+Krishna+Deshmukh;Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%92%BB;Android+Application+Developer+%F0%9F%93%B1;Building+impactful%2C+intelligent+software+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
+**AI/ML Engineer | Full-Stack Developer**
+
+I build AI-assisted developer tooling, computer vision systems, and full-stack web platforms focused on solving practical problems.
+
+India · B.E. in Artificial Intelligence & Machine Learning
+
+[GitHub](https://github.com/krishna-Deshmukh13) · [LinkedIn](https://www.linkedin.com/in/krishnadeshmukh13) · [Email](mailto:krishnadeshmukh721@gmail.com)
 
 ---
 
-### 💫 About Me
+## About
 
-```yaml
-name: Krishna Deshmukh
-degree: Artificial Intelligence & Machine Learning
-focus_areas: Full Stack Web Development, Machine Learning & Android Development
-philosophy: "Turning complex challenges into clean, scalable code."
-```
-
-- 🔭 **Currently working on:** AI/ML models, scalable full-stack web platforms & modern Android apps.
-- 🌱 **Currently exploring:** Advanced Deep Learning, Cloud Architecture (AWS), and Native Android.
-- 💬 **Ask me about:** Python, C++, Java, React, Node.js, Android Development, Web Frameworks, and Databases.
-- 🤝 **Collaboration:** Always open to collaborate on open-source projects & innovative ideas.
-- ⚡ **Fun fact:** I love turning caffeine into functional algorithms and debugging with rubber ducks! ☕🦆
+I am a software engineer specializing in Artificial Intelligence, Machine Learning, and Full-Stack development. My technical focus centers on developer productivity tools, real-time multimedia streaming, cryptographic evidence verification, and scalable web architectures. I prioritize clean code architecture, type safety, and building reliable end-to-end applications from local prototyping to production deployments.
 
 ---
 
-### 🌐 Connect With Me
+## Selected Projects
+
+### Fixora AI
+An all-in-one VS Code extension for automated code review, real-time static analysis, cyclomatic complexity metrics, and AI-assisted debugging using Google Gemini and local Ollama models.
+- **Technologies:** `TypeScript` · `VS Code API` · `Gemini API` · `ESLint`
+- **Repository:** [krishna-Deshmukh13/Fixora-AI---Extension](https://github.com/krishna-Deshmukh13/Fixora-AI---Extension)
+
+### Evidence Integrity Platform
+An enterprise digital forensics custody platform designed for cryptographic tamper detection, EXIF metadata extraction, digital certificate generation, and Section 63 BSA legal compliance.
+- **Technologies:** `FastAPI` · `React` · `OpenCV` · `TypeScript` · `Python`
+- **Repository:** [krishna-Deshmukh13/evidence-integrity-platform](https://github.com/krishna-Deshmukh13/evidence-integrity-platform)
+
+### Wanderlust — Airbnb Clone
+A full-stack vacation rental marketplace built with the MVC architecture, featuring dynamic destination search, category carousels, responsive listing management, GST tax calculations, and a simulated reservation workflow.
+- **Technologies:** `Node.js` · `Express.js` · `MongoDB` · `Bootstrap 5` · `EJS`
+- **Repository:** [krishna-Deshmukh13/AirBnb_Clone](https://github.com/krishna-Deshmukh13/AirBnb_Clone)
+
+### Web Translator
+A real-time translation studio supporting bidirectional speech-to-speech streaming via WebSockets, document text extraction (PDF/DOCX), live webpage translation, and neural speech synthesis.
+- **Technologies:** `Python` · `FastAPI` · `WebSocket` · `SpeechRecognition` · `gTTS`
+- **Repository:** [krishna-Deshmukh13/real-time-voice-translator](https://github.com/krishna-Deshmukh13/real-time-voice-translator)
+
+### RoadSense AI
+An autonomous road defect detection and municipal GIS decision-support platform utilizing computer vision for crack/pothole classification, depth estimation, and interactive PostGIS map plotting.
+- **Technologies:** `Python` · `FastAPI` · `YOLO11` · `Next.js 15` · `PostGIS`
+- **Status:** Verified Local Architecture · *Target Remote:* [krishna-Deshmukh13/roadsense-ai](https://github.com/krishna-Deshmukh13)
+
+### VYBE
+A full-stack music streaming and audio discovery platform featuring decentralized streaming ingestion, high-performance audio playback state management, and real-time catalog search.
+- **Technologies:** `TypeScript` · `Angular` · `Express.js` · `MongoDB`
+- **Status:** Verified Local Monorepo · *Target Remote:* [krishna-Deshmukh13/vybe](https://github.com/krishna-Deshmukh13)
+
+---
+
+## Technologies
+
+**Languages:** Python, JavaScript, TypeScript, Java, C++, SQL  
+**Frontend:** React, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS  
+**Backend:** Node.js, Express.js, FastAPI, REST APIs, WebSockets  
+**Databases & Storage:** MongoDB, PostgreSQL, PostGIS, MySQL  
+**Developer Tools:** Git, GitHub, VS Code, Linux, Docker  
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishnadeshmukh13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/krishna._deshmukh_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:krishnadeshmukh721@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/krishna-Deshmukh13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-Deshmukh13&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="Krishna Deshmukh GitHub Stats" width="480" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+## Connect
 
-<div align="center">
-  <!-- Core Languages -->
-  <p><b>Core Languages:</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,html,css&theme=dark" alt="Core Languages" />
-  </a>
-  
-  <br/><br/>
+I'm interested in building useful software, collaborating on impactful open-source projects, and learning from other engineers.
 
-  <!-- Full Stack Web Development -->
-  <p><b>Full Stack Web Development & Frameworks:</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="Web Development" />
-  </a>
-
-  <br/><br/>
-  
-  <!-- AI, Machine Learning & Mobile -->
-  <p><b>AI, Machine Learning & Mobile Development:</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,kotlin&theme=dark" alt="AI/ML & Mobile" />
-  </a>
-
-  <br/><br/>
-  
-  <!-- Cloud, Databases & DevOps -->
-  <p><b>Cloud, Databases & Developer Tools:</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,mysql,mongodb,git,github,vscode,postman,linux&theme=dark" alt="Cloud, DB & Tools" />
-  </a>
-
-  <br/><br/>
-  
-  <!-- Design & Creative -->
-  <p><b>Design & Creative Suite:</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,lightroom&theme=dark" alt="Creative" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Analytics & Dashboard
-
-<div align="center">
-  <!-- Streak Stats -->
-  <a href="https://github.com/krishna-Deshmukh13">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-Deshmukh13&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" width="48%" />
-  </a>
-  <!-- GitHub Overall Stats -->
-  <a href="https://github.com/krishna-Deshmukh13">
-    <img src="https://github-readme-stats.vercel.app/api?username=krishna-Deshmukh13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages (Auto-updates with up to 8 languages from your repositories, hiding system files) -->
-  <a href="https://github.com/krishna-Deshmukh13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-Deshmukh13&layout=compact&langs_count=8&hide=batchfile&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" alt="Top Languages" width="60%" />
-  </a>
-</div>
-
----
-
-### 💡 Daily Dev Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
-<br/>
-
-<!-- ======================================================= -->
-<!-- FOOTER WAVE -->
-<!-- ======================================================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
-</div>
+[GitHub](https://github.com/krishna-Deshmukh13) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/krishnadeshmukh13) &nbsp;·&nbsp; [Email](mailto:krishnadeshmukh721@gmail.com)
